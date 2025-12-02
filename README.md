@@ -3,6 +3,10 @@
 [![Story Format](https://img.shields.io/badge/Story%20Format-SugarCube%202-blue.svg)](https://www.motoslave.net/sugarcube/2/)
 [![Language](https://img.shields.io/badge/Language-Korean-blue)](https://www.twinecommunity.org/)
 
+가천대학교 2025학년도 한국어문학과 P-실무 프로젝트 결과물 
+
+(담당: 전성규)
+
 ## 📝 프로젝트 메타데이터
 
 | 항목 | 내용 |
