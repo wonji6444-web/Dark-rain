@@ -1,5 +1,5 @@
 /일단 냅둬
-# 🌑 검은 비 (Black Rain)
+# 🌑 검은 비 (Dark Rain)
 
 [![Story Format](https://img.shields.io/badge/Story%20Format-SugarCube%202-blue.svg)](https://www.motoslave.net/sugarcube/2/)
 [![Language](https://img.shields.io/badge/Language-Korean-blue)](https://www.twinecommunity.org/)
